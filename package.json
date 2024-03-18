@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@react-navigation/native": "^6.1.16",
+    "@react-navigation/stack": "^6.3.28",
+    "convex": "1.10.0"
+  }
+}
